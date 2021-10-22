@@ -10,6 +10,7 @@ int main()
 {
 
     double y=0, x;
+    //this is test
     cout << "Enter x = ";
     cin >> x;
     float rez;
