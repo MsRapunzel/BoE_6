@@ -19,6 +19,7 @@ int main()
         y += i;
     }
     y += 2*x;
+	//xyz
     rez = tan(y);
     cout << "Y=" << rez << endl;
 
