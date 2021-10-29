@@ -13,6 +13,7 @@ int main()
     //this is test
     cout << "Enter x = ";
     cin >> x;
+    // xyz
     float rez;
     for (int i = 1; i < 6; i++)
     {
